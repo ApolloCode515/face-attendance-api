@@ -2,3 +2,5 @@ flask
 deepface
 opencv-python
 numpy
+tensorflow==2.12.0
+tf-keras
